@@ -1,9 +1,9 @@
 # Full User Authentication using React and Fire base
 ## including 
-Sign Up
-Login 
+Sign Up.\
+Login.\
 Change Data
-Forget and Reset Password
+Forget and Reset Password.
 
 # Getting Started with Create React App
 
