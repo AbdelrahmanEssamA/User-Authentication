@@ -1,4 +1,4 @@
-# Full User Authentication using React Context API and Fire base and
+# Full User Authentication using React Context API and Fire base
 ## including 
 Sign Up.\
 Login.\
