@@ -2,7 +2,7 @@
 ## including 
 Sign Up.\
 Login.\
-Change Data
+Change Data.\
 Forget and Reset Password.
 
 # Getting Started with Create React App
